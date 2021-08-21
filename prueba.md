@@ -1,4 +1,4 @@
-###Github
+##Github
 # Listado de Asistencia
 
  Hora | Dia |  Nombre | Clase tomada |
